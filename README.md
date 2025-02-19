@@ -1,5 +1,5 @@
 # Trabalho de extensão - Entrega até dia 20/03/2024!!!
-- Grupos:
+- Grupos (Feito por sorteio):
 ![image](https://github.com/user-attachments/assets/f73b3b8c-ef9d-4063-aebf-738820602baf)
 
 ## Resumos dos tópicos para ajudar na pesquisa.
