@@ -15,7 +15,31 @@ Neste ponto, a qualidade de software é definida de forma abrangente, indo além
 Este tópico propõe uma retrospectiva da evolução do conceito de qualidade no desenvolvimento de software. Desde os primeiros dias da programação até a adoção de padrões modernos, a narrativa destaca marcos importantes como o surgimento do modelo CMM, do MPS.BR e a popularização das metodologias ágeis. Tais transformações contribuíram para aprimorar processos e elevar o nível de qualidade nos produtos entregues.
 
 ## - Tópico 4: Desafio da Engenharia de Software
-Aqui, é abordado o principal desafio enfrentado pela engenharia de software: a necessidade de entregar produtos de alta qualidade dentro de prazos e orçamentos restritos. A discussão enfatiza as compensações entre tempo, custo e funcionalidade, mostrando que a busca pela qualidade envolve a implementação de estratégias que conciliem essas demandas, sem comprometer a integridade e a eficiência do software.
+A engenharia de software enfrenta vários desafios, como a necessidade de acompanhar as inovações tecnológicas, garantir a qualidade do código e a segurança das aplicações. 
+
+Desafios técnicos:
+Lidar com a complexidade crescente dos sistemas;
+Garantir a segurança e privacidade dos dados;
+Identificar e corrigir bugs;
+Lidar com aplicações que precisam crescer e permanecer em produção por longos períodos;
+Trabalhar com "sistemas legados", ou seja, softwares considerados obsoletos e com custos elevados para atualização.
+
+Desafios de gestão:
+Gerenciar projetos e prazos apertados;
+Lidar com a carga de trabalho; 
+Garantir a qualidade do código; 
+Garantir a segurança das aplicações.
+
+Desafios de formação:
+Desenvolver soft skills, como saber trabalhar em equipe;
+Saber liderar e ser liderado; 
+Saber se comunicar e se expressar;
+Manter-se atualizado em relação a tecnologias modernas, boas práticas, modelos de trabalho e tendências no mercado.
+
+Desafios de implementação:
+Falta de comprometimento da alta gerência com a implementação dos processos
+Fraco apoio da alta direção
+Pouco envolvimento dos colaboradores da empresa
 
 ## - Tópico 5: Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade
 Este novo tópico explora como a adoção de práticas como a automação de testes, integração contínua e entrega contínua pode potencializar a qualidade do software. Ao permitir um feedback rápido e iterativo durante o desenvolvimento, essas abordagens auxiliam na detecção precoce de falhas e na implementação de melhorias constantes, complementando os conceitos históricos, desafiadores e essenciais discutidos nos tópicos anteriores.
