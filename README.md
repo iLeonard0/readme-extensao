@@ -9,7 +9,18 @@
 Este tópico destaca que a qualidade do software é essencial para o sucesso dos projetos de desenvolvimento, influenciando diretamente a satisfação dos clientes, a confiança na marca e a segurança dos usuários. Exemplos de falhas em sistemas críticos ou vazamentos de dados evidenciam os impactos negativos decorrentes de uma baixa qualidade, ressaltando a necessidade de investir em processos e práticas que garantam um produto final robusto.
 
 ## - Tópico 2: Definição de Qualidade de Software
-Neste ponto, a qualidade de software é definida de forma abrangente, indo além da simples ausência de defeitos. São considerados aspectos como desempenho, confiabilidade, usabilidade e manutenibilidade. A definição pode ser baseada em conceitos consagrados por especialistas ou elaborada a partir dos princípios que serão abordados, enfatizando que um software de qualidade atende tanto aos requisitos técnicos quanto às expectativas dos usuários.
+A qualidade de software garante que um sistema atenda às expectativas dos usuários e aos requisitos definidos. Ela é avaliada sob dois aspectos principais:
+Qualidade do Produto: Mede características como funcionalidade, confiabilidade, usabilidade, desempenho, segurança, manutenibilidade e portabilidade. O modelo ISO/IEC 25010 define esses critérios.
+
+Qualidade do Processo: Relaciona-se às práticas utilizadas no desenvolvimento, como metodologias ágeis (Scrum, Kanban), testes contínuos, revisão de código e gerenciamento de riscos.Garantia da Qualidade (QA) e Testes: Envolve testes funcionais, de desempenho, segurança, usabilidade e regressão para prevenir falhas e melhorar a experiência do usuário.
+
+Benefícios da Qualidade de Software
+Redução de custos com correção de erros
+Maior satisfação e retenção de usuários
+Facilidade de manutenção e escalabilidade
+Melhor competitividade no mercado
+
+A qualidade não se trata apenas de evitar falhas, mas de criar um software eficiente, seguro e fácil de usar.
 
 ## - Tópico 3: Breve História e Evolução da Qualidade de Software
 Este tópico propõe uma retrospectiva da evolução do conceito de qualidade no desenvolvimento de software. Desde os primeiros dias da programação até a adoção de padrões modernos, a narrativa destaca marcos importantes como o surgimento do modelo CMM, do MPS.BR e a popularização das metodologias ágeis. Tais transformações contribuíram para aprimorar processos e elevar o nível de qualidade nos produtos entregues.
