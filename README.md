@@ -133,4 +133,7 @@ Em suma, a qualidade de software é uma responsabilidade compartilhada e deve se
 ---
 
 # - Tópico 5: Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade
-Este novo tópico explora como a adoção de práticas como a automação de testes, integração contínua e entrega contínua pode potencializar a qualidade do software. Ao permitir um feedback rápido e iterativo durante o desenvolvimento, essas abordagens auxiliam na detecção precoce de falhas e na implementação de melhorias constantes, complementando os conceitos históricos, desafiadores e essenciais discutidos nos tópicos anteriores. 
+A automatização de testes e a integração contínua são práticas recentes no mercado, as mesmas contribuem para a qualidade do software e otimização de tempo dos "Devs" pois permitem corrigir e detectar erros mais rapidamente.
+Melhorando de forma significativa a qualidade de software, a automação de testes e a integração contínua são componentes inseparáveis do desenvolvimento de software moderno.
+A implementação dos mesmos permitem executar testes rapidamente sem a necessidade dos desenvolvedores, garantindo uma entrega mais rápida, reduzindo o potencial de erros e  garantindo um padrão de qualidade consistente.
+A integração contínua depende de pipelines bem estruturados que automatizam testes de cata etapa, por outro lado, a mesma facilita o trabalho do "Dev" verificando se as alterações de um código não quebram recursos anteriormente estabelecidos ou introduzem novos bugs ao código, executando testes automatizados para cada nova linha de código.
