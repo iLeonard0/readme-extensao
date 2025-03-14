@@ -1,5 +1,5 @@
-# Trabalho de extensão - Entrega até dia 20/03/2024!!!
-- Grupos (Feito por sorteio):
+# Trabalho de extensão - Qualidade de Software - Entrega até dia 20/03/2024!!!
+- Grupos:
 ![image](https://github.com/user-attachments/assets/f73b3b8c-ef9d-4063-aebf-738820602baf)
 
 # Qualidade de Software
