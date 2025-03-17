@@ -8,14 +8,14 @@ Este repositório contém um guia completo sobre Qualidade de Software, abordand
 
 ## Sumário
 1. [Importância da Qualidade de Software](#1-importância-da-qualidade-de-software)
-2. [Definição e Dimensões da Qualidade](#definição-e-dimensões-da-qualidade)
-3. [Evolução Histórica da Qualidade de Software](#evolução-histórica-da-qualidade-de-software)
-4. [Desafios na Engenharia de Software](#desafios-na-engenharia-de-software)
-5. [Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade](#atuomocao-de-testes-e-integracao-continua-como-ferramentas-para-garantia-da-qualidade)
-6. [Boas Práticas e Metodologias de Garantia de Qualidade](#boas-práticas-e-metodologias-de-garantia-de-qualidade)
-7. [Ferramentas e Tecnologias de Teste](#ferramentas-e-tecnologias-de-teste)
-8. [Métricas e Indicadores de Qualidade](#métricas-e-indicadores-de-qualidade)
-9. [Considerações Finais](#considerações-finais)
+2. [Definição e Dimensões da Qualidade](#2-definição-e-dimensões-da-qualidade)
+3. [Evolução Histórica da Qualidade de Software](#3-evolução-histórica-da-qualidade-de-software)
+4. [Desafios na Engenharia de Software](#4-desafios-na-engenharia-de-software)
+5. [Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade](#5-automação-de-testes-e-integração-contínua-como-ferramentas-para-garantia-da-qualidade)
+6. [Boas Práticas e Metodologias de Garantia de Qualidade](#6-boas-práticas-e-metodologias-de-garantia-de-qualidade)
+7. [Ferramentas e Tecnologias de Teste](#7-ferramentas-e-tecnologias-de-teste)
+8. [Métricas e Indicadores de Qualidade](#8-métricas-e-indicadores-de-qualidade)
+9. [Considerações Finais](#9-considerações-finais)
 
 ---
 
