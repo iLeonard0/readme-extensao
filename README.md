@@ -11,10 +11,11 @@ Este repositório contém um guia completo sobre Qualidade de Software, abordand
 2. [Definição e Dimensões da Qualidade](#definição-e-dimensões-da-qualidade)
 3. [Evolução Histórica da Qualidade de Software](#evolução-histórica-da-qualidade-de-software)
 4. [Desafios na Engenharia de Software](#desafios-na-engenharia-de-software)
-5. [Boas Práticas e Metodologias de Garantia de Qualidade](#boas-práticas-e-metodologias-de-garantia-de-qualidade)
-6. [Ferramentas e Tecnologias de Teste](#ferramentas-e-tecnologias-de-teste)
-7. [Métricas e Indicadores de Qualidade](#métricas-e-indicadores-de-qualidade)
-8. [Considerações Finais](#considerações-finais)
+5. [Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade](#atuomocao-de-testes-e-integracao-continua-como-ferramentas-para-garantia-da-qualidade)
+6. [Boas Práticas e Metodologias de Garantia de Qualidade](#boas-práticas-e-metodologias-de-garantia-de-qualidade)
+7. [Ferramentas e Tecnologias de Teste](#ferramentas-e-tecnologias-de-teste)
+8. [Métricas e Indicadores de Qualidade](#métricas-e-indicadores-de-qualidade)
+9. [Considerações Finais](#considerações-finais)
 
 ---
 
