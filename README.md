@@ -7,7 +7,7 @@
 Este repositório contém um guia completo sobre Qualidade de Software, abordando sua importância, definições, evolução histórica, desafios, boas práticas, ferramentas e métricas. O objetivo é oferecer um conteúdo claro e estruturado para profissionais e interessados na área.
 
 ## Sumário
-1. [Importância da Qualidade de Software](#importância-da-qualidade-de-software)
+1. [Importância da Qualidade de Software](#1-importância-da-qualidade-de-software)
 2. [Definição e Dimensões da Qualidade](#definição-e-dimensões-da-qualidade)
 3. [Evolução Histórica da Qualidade de Software](#evolução-histórica-da-qualidade-de-software)
 4. [Desafios na Engenharia de Software](#desafios-na-engenharia-de-software)
