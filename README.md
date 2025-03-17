@@ -8,6 +8,36 @@
 ## - Tópico 1: Discussão sobre a Importância da Qualidade de Software
 Este tópico destaca que a qualidade do software é essencial para o sucesso dos projetos de desenvolvimento, influenciando diretamente a satisfação dos clientes, a confiança na marca e a segurança dos usuários. Exemplos de falhas em sistemas críticos ou vazamentos de dados evidenciam os impactos negativos decorrentes de uma baixa qualidade, ressaltando a necessidade de investir em processos e práticas que garantam um produto final robusto.
 
+## - O que é qualidade de software?
+A qualidade de software pode ser definida como a medida em que um software atende às necessidades especificadas e expectativas do usuário, mantendo um desempenho consistente sob condições normais e anormais. Ou seja, é uma combinação de atributos que determinam a capacidade do software de satisfazer tanto os requisitos funcionais quanto os não funcionais.
+
+## - A importância da qualidade de software no ambiente empresarial
+A qualidade de software é um fator determinante na competitividade das empresas no mercado atual. Um software de alta qualidade permite que as organizações ofereçam produtos e serviços mais eficientes, inovadores e confiáveis.
+
+Isso é crucial para se destacar em um mercado tão competitivo, onde a diferenciação de produtos pode ser a chave para o sucesso, e para garantir a longevidade e a sustentabilidade do negócio.
+
+Empresas que negligenciam a qualidade de software correm o risco de enfrentar problemas significativos, como falhas frequentes, baixo desempenho e insatisfação do cliente. Esses problemas não apenas aumentam os custos operacionais devido à necessidade de constantes correções e manutenções, mas também podem resultar em perda de clientes e danos à reputação da empresa. 
+
+Por outro lado, um software que oferece uma experiência de usuário positiva, é intuitivo, responsivo e eficiente, e facilita a interação do usuário com o sistema, deixa os clientes satisfeitos e ajuda a melhorar a produtividade dos usuários, especialmente em ambientes corporativos onde o software é uma ferramenta diária de trabalho.
+
+Portanto, investir em qualidade de software é investir diretamente na melhoria da experiência do usuário e, consequentemente, na retenção e fidelização dos clientes.
+
+## - Benefícios de focar em qualidade de software
+
+* Garantir maior competitividade;
+* Assegurar sua sobrevivência e sustentabilidade;
+* Ganhar relevância dentro do mercado internacional;
+* Otimizar o custo-benefício de seus projetos e soluções;
+* Alavancar sua taxa de retenção de clientes.
+
+## - Quais são os benefícios da análise da qualidade de software para uma empresa?
+* Maior qualidade de entrega aos usuários, o que oferece um relacionamento ainda melhor entre cliente e empresa;
+* Formato escalável e replicável, uma vez que consegue se adaptar aos inúmeros projetos e consegue estender todos os seus recursos à tecnologia de entrega do negócio;
+* Contribui com uma equipe mais capacitada e enxuta, já que haverá o conhecimento de quais tipos de falhas precisam ser evitadas e como diagnosticá-las de forma preventiva;
+* Oferece uma adesão as normas e aos padrões de diversos âmbitos de qualidade quanto ao desenvolvimento do software.
+
+**Juan**
+
 ## - Tópico 2: Definição de Qualidade de Software
 Neste ponto, a qualidade de software é definida de forma abrangente, indo além da simples ausência de defeitos. São considerados aspectos como desempenho, confiabilidade, usabilidade e manutenibilidade. A definição pode ser baseada em conceitos consagrados por especialistas ou elaborada a partir dos princípios que serão abordados, enfatizando que um software de qualidade atende tanto aos requisitos técnicos quanto às expectativas dos usuários.
 
