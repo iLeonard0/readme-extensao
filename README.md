@@ -13,10 +13,7 @@ Este repositório contém um guia completo sobre Qualidade de Software, abordand
 3. [Evolução Histórica da Qualidade de Software](#3-evolução-histórica-da-qualidade-de-software)
 4. [Desafios na Engenharia de Software](#4-desafios-na-engenharia-de-software)
 5. [Automação de Testes e Integração Contínua como Ferramentas para Garantia da Qualidade](#5-automação-de-testes-e-integração-contínua-como-ferramentas-para-garantia-da-qualidade)
-6. [Boas Práticas e Metodologias de Garantia de Qualidade](#6-boas-práticas-e-metodologias-de-garantia-de-qualidade)
-7. [Ferramentas e Tecnologias de Teste](#7-ferramentas-e-tecnologias-de-teste)
-8. [Métricas e Indicadores de Qualidade](#8-métricas-e-indicadores-de-qualidade)
-9. [Considerações Finais](#9-considerações-finais)
+6. [Considerações Finais](#6-considerações-finais)
 
 ---
 
@@ -175,49 +172,7 @@ A automação de testes e a integração contínua não são apenas tendências,
 
 ---
 
-## 6. Boas Práticas e Metodologias de Garantia de Qualidade
-
-**Definição:**  
-Boas práticas e metodologias de garantia de qualidade são estratégias sistemáticas para assegurar a excelência do software ao longo de todo o ciclo de desenvolvimento.
-
-### Práticas Recomendadas
-- **Planejamento Detalhado:** Definir requisitos claros com base em histórias de usuário e casos de uso.
-- **Automação de Testes:** Utilizar ferramentas como Selenium, JUnit ou Cypress para automatizar testes e reduzir erros.
-- **Revisões de Código:** Implementar code reviews e pair programming para identificar problemas precocemente.
-- **Integração e Entrega Contínua (CI/CD):** Automatizar processos de build, testes e deploy para manter um ciclo ágil.
-- **Feedback Contínuo:** Realizar testes de aceitação com usuários e ajustar o produto com base em seus comentários.
-
----
-
-## 7. Ferramentas e Tecnologias de Teste
-
-**Definição:**  
-Ferramentas e tecnologias de teste são os recursos utilizados para executar, automatizar e monitorar os testes de software, garantindo a detecção de falhas e a conformidade com os requisitos.
-
-### Exemplos de Ferramentas
-- **Selenium, Cypress:** Para automação de testes de interface web.
-- **JUnit, TestNG:** Para testes unitários em aplicações Java.
-- **Appium:** Para automação de testes em dispositivos móveis.
-- **Jenkins:** Para integração contínua e execução de pipelines de testes.
-- **SonarQube:** Para análise estática de código e detecção de vulnerabilidades.
-- **Git:** Para controle de versão e rastreamento de mudanças.
-
----
-
-## 8. Métricas e Indicadores de Qualidade
-
-**Definição:**  
-Métricas e indicadores de qualidade são medidas quantitativas que avaliam o desempenho do software e dos processos de desenvolvimento, ajudando a identificar áreas de melhoria.
-
-### Principais Métricas
-- **Cobertura de Testes:** Percentual do código executado durante os testes.
-- **Densidade de Defeitos:** Número de erros por mil linhas de código, indicando robustez.
-- **Tempo de Resolução:** Média do tempo necessário para corrigir defeitos, refletindo a eficiência da equipe.
-- **Satisfação do Usuário:** Feedback qualitativo e quantitativo dos usuários, medindo a experiência de uso.
-
----
-
-## 9. Considerações Finais
+## 6. Considerações Finais
 
 **Definição:**  
 As considerações finais sintetizam a importância de integrar todas as práticas e ferramentas para construir uma cultura de qualidade contínua em software.
